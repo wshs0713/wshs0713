@@ -25,7 +25,7 @@ See my [full about page here](https://wshs0713.github.io/about/).
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="assets/javascript.svg" title="JavaScript" alt="javascript" width="40" height="40"/></a>
     <a href="https://www.python.org" target="_blank"><img src="assets/python.svg" title="Python" alt="python" width="40" height="40"/></a>
     <a href="https://flask.palletsprojects.com/" target="_blank"><img src="assets/flask.svg" title="Flask" alt="flask" width="40" height="40"/></a>
-    <a href="https://fastapi.tiangolo.com/g" target="_blank"><img src="assets/fastapi.svg" title="Python" alt="python" width="40" height="40"/></a>
+    <a href="https://fastapi.tiangolo.com/g" target="_blank"><img src="assets/fastapi.svg" title="FastAPI" alt="fastapi" width="40" height="40"/></a>
     <a href="https://nodejs.org" target="_blank"><img src="assets/nodejs.svg" title="Node.js" alt="nodejs" width="40" height="40"/></a>
     <a href="https://expressjs.com" target="_blank"><img src="assets/express.svg" title="Express.js" alt="express" width="40" height="40"/></a>
     <a href="https://www.elastic.co" target="_blank"><img src="assets/elasticsearch.svg" title="Elasticsearch" alt="elasticsearch" width="40" height="40"/></a>
