@@ -19,69 +19,28 @@ See my [full about page here](https://wshs0713.github.io/about/).
 
 #### Skills and Tools
 
-Front-end:
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"><img src="assets/html5.svg" title="HTML5" alt="html5" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"><img src="assets/css3.svg" title="CSS3" alt="css3" width="40" height="40"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="assets/javascript.svg" title="JavaScript" alt="javascript" width="40" height="40"/></a>
-</p>
-
-Back-end:
-
-<p align="left">
     <a href="https://www.python.org" target="_blank"><img src="assets/python.svg" title="Python" alt="python" width="40" height="40"/></a>
     <a href="https://flask.palletsprojects.com/" target="_blank"><img src="assets/flask.svg" title="Flask" alt="flask" width="40" height="40"/></a>
     <a href="https://fastapi.tiangolo.com/g" target="_blank"><img src="assets/fastapi.svg" title="Python" alt="python" width="40" height="40"/></a>
     <a href="https://nodejs.org" target="_blank"><img src="assets/nodejs.svg" title="Node.js" alt="nodejs" width="40" height="40"/></a>
     <a href="https://expressjs.com" target="_blank"><img src="assets/express.svg" title="Express.js" alt="express" width="40" height="40"/></a>
-</p>
-
-Database:
-
-<p align="left">
     <a href="https://www.elastic.co" target="_blank"><img src="assets/elasticsearch.svg" title="Elasticsearch" alt="elasticsearch" width="40" height="40"/></a>
     <a href="https://www.mysql.com/" target="_blank"><img src="assets/mysql.svg" title="MySQL" alt="mysql" width="40" height="40"/></a>
     <a href="https://redis.io" target="_blank"><img src="assets/redis.svg" title="Redis" alt="redis" width="40" height="40"/></a>
     <a href="https://www.mongodb.com/" target="_blank"><img src="assets/mongodb.svg" title="MongoDB" alt="mongodb" width="40" height="40"/></a>
-</p>
-
-Test framework:
-
-<p align="left">
-<a href="https://docs.pytest.org/en/7.0.x/" target="_blank"><img src="assets/pytest.svg" title="Pytest" alt="pytest" width="40" height="40"/></a>
-<a href="https://mochajs.org" target="_blank"><img src="assets/mochajs.svg" title="Mocha" alt="mocha" width="40" height="40"/></a>
-</p>
-
-Deployment:
-
-<p align="left">
-    <a href="https://www.docker.com/" target="_blank">
-        <img src="assets/docker.svg" title="Docker" alt="docker" width="40" height="40"/>
-    </a>
-    <a href="https://github.com/features/actions" target="_blank">
-        <img src="assets/github_actions.png" title="GitHub Actions" alt="github_actions" width="40" height="40"/> 
-    </a>
-    <a href="https://circleci.com" target="_blank">
-        <img src="assets/circleci.svg" title="CircleCI" alt="circleci" width="40" height="40"/> 
-    </a>
-</p>
-
-Cloud service:
-
-<p align="left">
+    <a href="https://docs.pytest.org/en/7.0.x/" target="_blank"><img src="assets/pytest.svg" title="Pytest" alt="pytest" width="40" height="40"/></a>
+    <a href="https://mochajs.org" target="_blank"><img src="assets/mochajs.svg" title="Mocha" alt="mocha" width="40" height="40"/></a>
+    <a href="https://www.docker.com/" target="_blank"><img src="assets/docker.svg" title="Docker" alt="docker" width="40" height="40"/></a>
+    <a href="https://github.com/features/actions" target="_blank"><img src="assets/github_actions.png" title="GitHub Actions" alt="github_actions" width="40" height="40"/> </a>
+    <a href="https://circleci.com" target="_blank"><img src="assets/circleci.svg" title="CircleCI" alt="circleci" width="40" height="40"/> </a>
     <a href="https://aws.amazon.com" target="_blank"><img src="assets/aws.svg" title="AWS" alt="aws" width="40" height="40"/></a>
     <a href="https://cloud.google.com" target="_blank"><img src="assets/gcp.svg" title="GCP" alt="gcp" width="40" height="40"/></a>
-</p>
-
-Tools:
-
-<p align="left">
     <a href="https://code.visualstudio.com/" target="_blank"><img src="assets/vscode.png" title="VSCode" alt="vscode" width="40" height="40"/></a>
     <a href="https://postman.com" target="_blank"><img src="assets/postman.svg" title="Postman" alt="postman" width="40" height="40"/></a>
-</p>
-
-Others:
-<p align="left">
     <a href="https://git-scm.com/" target="_blank"><img src="assets/git.svg" title="Git" alt="git" width="40" height="40"/></a>
     <a href="https://www.linux.org/" target="_blank"><img src="assets/linux.svg" title="Linux" alt="linux" width="40" height="40"/></a>
     <a href="https://www.nginx.com" target="_blank"><img src="assets/nginx.svg" title="Nginx" alt="nginx" width="40" height="40"/></a>
