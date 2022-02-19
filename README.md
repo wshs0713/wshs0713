@@ -17,7 +17,7 @@ See my [full about page here](https://wshs0713.github.io/about/).
 
 ---
 
-#### Skills and Tools
+### Skills and Tools
 
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"><img src="assets/html5.svg" title="HTML5" alt="html5" width="40" height="40"/> </a>
