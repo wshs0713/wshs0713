@@ -11,7 +11,7 @@
 Hi, I'm Szu-Hsuan. I am an easy-going, detail-oriented, problem-solving, and responsible person. 
 I like to build great software with new technologies. I always hope that I can keep learning and grow up.
 
-I worked in back-end development for about 4 years. I'm currently working at [DeepWave](https://dwave.cc). DeepWave is a startup with multiple AI audio analysis services. I'm responsible for designing back-end architecture and database schema, building RESTful APIs with Python, Flask, and FastAPI, and maintaining services.
+I worked in back-end development for about 4 years. I'm currently working at [DeepWave](https://dwave.cc), which is a startup with multiple AI audio analysis services. I'm responsible for designing back-end architecture and database schema, building RESTful APIs with Python, Flask, and FastAPI, and maintaining services.
 
 See my [full about page here](https://wshs0713.github.io/about/).
 
